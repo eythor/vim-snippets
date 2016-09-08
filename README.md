@@ -1,2 +1,2 @@
 # vim-snippets
-Snippets I create/use for vim-snipMate
+Snippets I create/use for UltiSnip
